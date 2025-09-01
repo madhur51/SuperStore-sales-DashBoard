@@ -36,3 +36,8 @@ Time-Series Analysis: Monthly sales and profit YoY trends.
 Forecasting: 15-day future sales prediction using historical order data.
 
 Top States Performance: Ranking of states (California, New York, Texas, etc.) by sales volume.
+
+![WhatsApp Image 2025-09-01 at 22 05 23](https://github.com/user-attachments/assets/a6209c20-b72b-48d9-ba0b-a72a9e770c14)
+
+![WhatsApp Image 2025-09-01 at 22 05 23 (1)](https://github.com/user-attachments/assets/e8eb5bc5-a5dd-45b0-a4cd-d619b8902414)
+
